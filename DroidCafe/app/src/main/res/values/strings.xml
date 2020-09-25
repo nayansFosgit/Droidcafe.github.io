@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Droid Cafe</string>
+    <string name="doid_desert">Doid Desert</string>
+    <string name="donuts_are_glazed_and_sprinkled_with_candy">Donuts are glazed and sprinkled with candy</string>
+    <string name="ice_cream_sandwiches_have_choclate_wafers_and_vanilla">Ice cream sandwiches have choclate wafers and vanilla</string>
+    <string name="froyo_is_premium_self_serve_frozen_yogurt">froyo is premium self serve frozen yogurt</string>
+    <string name="donut_order_message">your order is Donut</string>
+    <string name="ice_cream_order_message">your order is icecream</string>
+    <string name="froyo_order_message">your order is froyo</string>
+</resources>
